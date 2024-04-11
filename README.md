@@ -1,4 +1,4 @@
-### Restatement of the Problem
+### Restatement of the Problem C
 
 #### Problem Background:
 In the context of small and medium-sized enterprises (SMEs), which often lack collateral assets, banks base their lending decisions on credit policies, trade bill information, and the influence of upstream and downstream enterprises. They provide loans to strong businesses with stable supply-demand relationships and offer preferential interest rates to high-credit, low-risk companies. Banks assess the credit risk of SMEs based on their strength and reputation before determining loan approval, amount, interest rate, and term.
